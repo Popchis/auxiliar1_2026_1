@@ -7,6 +7,7 @@ object Yapper {
     println("Hello my fellow memeros")
     println("i hate windows so much i dont know how")
     println("it seems that now works")
+    println("im losing my mindfsdifjoisnfoasjdpjmaaaaaaaaaa")
   }
 
   def say(something: String): Unit = {
